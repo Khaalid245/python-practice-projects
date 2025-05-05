@@ -1,0 +1,2 @@
+greet = ' hellow'
+print(greet)
