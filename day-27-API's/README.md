@@ -7,3 +7,7 @@ The response from the API is in JSON format, and we convert it to a Python dicti
 
 Looping Through API Responses:
 We loop through the list of articles and print useful information like the title and description for each one.
+
+This Python script fetches the latest Tesla news 
+using the News API and emails the headlines to a recipient using Gmail SMTP with secure 
+login credentials stored as environment variables.
