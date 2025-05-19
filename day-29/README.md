@@ -5,3 +5,5 @@ calling flask, then I have been created small multipage that you can navigate ea
 
 I have installed flask frame 
   ``pip install flask``
+
+day  29 I have learned creating api for using flask and making a ports
