@@ -129,5 +129,5 @@ EMAIL_HOST = 'smtp.gmail.com'
 EMAIL_PORT = 587
 EMAIL_USE_TLS = True
 EMAIL_HOST_USER = 'megakhalid32@gmail.com'
-EMAIL_HOST_PASSWORD = '6uhhjhkukmrjfzqgj77'
+EMAIL_HOST_PASSWORD = 'uhhjhkukmrjfzqgj'
 
