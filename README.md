@@ -1,95 +1,84 @@
-# 🐍 60 Days of Python — Personal Developer Journey
+# 🐍 60 Days of Python — Learning Journey
 
-[![Progress](https://progress-bar.dev/20/?scale=60&title=Days%20Completed&width=300)](https://progress-bar.dev)
+[![Progress](https://progress-bar.dev/38/?scale=60&title=Day%2038%20of%2060&width=300)](https://progress-bar.dev)
 
-Welcome to my evolving Python journey — 60 days of learning, building, and documenting everything!  
-My mission: Become a **full-stack Python developer** with real-world skills in **web apps**, **automation**, and **data science**.
+Welcome to my **Python Mega Course** learning journey — _"Learn Python in 60 Days & Build 20 Apps"_ by **Ardit Sulce** on Udemy.
 
----
-
-## 📌 Quick Snapshot
-
-![Python](https://img.shields.io/badge/Python-3.11-blue.svg)
-![Status](https://img.shields.io/badge/Status-In%20Progress-yellow)
-![Level](https://img.shields.io/badge/Level-Beginner%20to%20Intermediate-blueviolet)
-![Course](https://img.shields.io/badge/Udemy-Course-informational)
-
-- 🎯 **Goal:** Job-ready Full-Stack Python Developer
-- ⏱️ **Current Day:** `20 / 60`
-- 🛠️ **Learning Mode:** Build + Break + Rebuild
+> I'm building real-world apps daily to become a **job-ready full-stack Python developer**.
 
 ---
 
-## 🧱 Projects Built So Far
+## 📦 Course Snapshot
 
-<details>
-<summary><strong>🔧 Core Projects</strong></summary>
+![Python](https://img.shields.io/badge/Python-3.11-blue)
+![Level](https://img.shields.io/badge/Level-Beginner%20to%20Intermediate-purple)
+![Platform](https://img.shields.io/badge/Udemy-Python%20Mega%20Course-orange)
+![Status](https://img.shields.io/badge/Status-Day%2038%2F60-informational)
 
-| Project | Description | Tech |
-|--------|-------------|------|
-| ✅ **To-Do App** | Simple task manager | Python, CLI |
-| ✅ **CSV File Tool** | Read, write, and transform CSV data | pandas |
-| ✅ **File Reader/Converter** | Convert file formats (txt → csv, etc.) | Python |
-| ✅ **Live Camera App** | Real-time webcam app | Streamlit, OpenCV |
-| ✅ **Portfolio Website** | Personal web portfolio | HTML, CSS, Python |
-| ✅ **PDF Auto-Generator** | Automated report/invoice PDFs | ReportLab |
-| ✅ **Email + News App** | Sends daily news via email | SMTP, NewsAPI |
-| ✅ **Weather App (Live)** | Get current weather data | OpenWeather API |
-| ✅ **Weather Forecast App** | Weekly forecast API | OpenWeather API |
-| ✅ **Django Job API** | Job app backend with user auth | Django REST |
-
-</details>
+- 🧠 **Instructor**: Ardit Sulce  
+- 💼 **Course**: [Python Mega Course](https://www.udemy.com/course/the-python-mega-course/)  
+- 🎯 **Goal**: Full-stack developer with Python, API, Django, and ML skills
 
 ---
 
-## 📚 What I’ve Mastered (Days 1–20)
+## 🛠️ Projects I’ve Built So Far
 
-- ✅ Python fundamentals: syntax, variables, logic
-- ✅ Loops, conditions, functions
-- ✅ File & CSV handling
-- ✅ OOP Basics (Classes, Inheritance)
-- ✅ GUI with `tkinter`
-- ✅ CLI project structure
-- ✅ Libraries: `random`, `datetime`, `tkinter`, `os`, `csv`
-
----
-
-## 🛠️ Upcoming (Days 21–40)
-
-- 🌐 Flask / Django Fundamentals
-- 📡 Build REST APIs
-- 🗄️ Connect Python to SQL databases
-- 🔐 Auth: Signups, Logins, Sessions
-- 🧩 Build full-stack apps end-to-end
+| 💡 Project | 📄 Description | 🧰 Tools Used |
+|-----------|----------------|---------------|
+| ✅ **To-Do App** | Task manager with CLI & GUI | Python, Tkinter |
+| ✅ **File Handler** | Read, write & convert files | OS, CSV, File I/O |
+| ✅ **CSV Tool** | Extract + transform data | pandas |
+| ✅ **Camera App** | Live webcam in browser | Streamlit, OpenCV |
+| ✅ **Portfolio Site** | Developer portfolio | HTML, CSS, Python |
+| ✅ **PDF Generator** | Auto-generate PDFs | ReportLab |
+| ✅ **News & Email Bot** | Daily digest via email | SMTP, NewsAPI |
+| ✅ **Weather Data API** | Current weather data | OpenWeather API |
+| ✅ **Weather Forecast** | 7-day forecast integration | OpenWeather |
+| ✅ **Django Job API** | Backend for job listings | Django REST Framework |
 
 ---
 
-## 📊 Final Phase (Days 41–60)
+## 📚 What I’ve Learned (Up to Day 38)
 
-- 📊 Learn NumPy, Pandas
-- 📈 Visualize with Matplotlib & Seaborn
-- 🤖 Machine learning basics (Scikit-learn)
-- 🧠 Capstone Projects: combine everything!
+- ✅ Python Fundamentals (Variables, Loops, Logic)
+- ✅ Functions, Return Values, OOP
+- ✅ File Handling & Automation
+- ✅ GUI Development (Tkinter)
+- ✅ Web App Deployment with Streamlit
+- ✅ API Requests & Data Integration
+- ✅ CSV & Data Manipulation
+- ✅ Email Automation
+- ✅ Django APIs & Backend Structuring
+
+---
+
+## 🚀 What’s Next (Days 39–60)
+
+- 🧠 Basic Machine Learning with scikit-learn
+- 📊 Data Analysis with NumPy & Pandas
+- 📈 Visualization using Matplotlib, Seaborn
+- 🧩 Final Capstone App (All-in-One Project)
 
 ---
 
 ## 🙌 Why I'm Doing This
 
-> **“Learning by doing. Growing by sharing.”**
+> _“My mission is to learn deeply by building consistently.”_
 
 This journey is about:
-- Staying consistent
-- Learning by real-world building
-- Creating things that actually **work**
-- Sharing my code to inspire other self-taught devs
+- 🔄 Practicing every day with purpose
+- ⚙️ Solving real problems with Python
+- 💼 Preparing for professional developer roles
+- 🌍 Sharing my progress to inspire others like me
 
 ---
 
-## 🔗 Let’s Connect!
+## 📬 Let’s Connect
 
-- 🌍 **Portfolio:** [Add your portfolio link here]
-- 💼 **LinkedIn:** [Add LinkedIn]
-- 📨 **Email:** [Add Email]
+- 🌐 **Portfolio**: [Add your portfolio link here]  
+- 💬 **LinkedIn**: [Your LinkedIn]  
+- 📧 **Email**: [Your email]
 
 ---
 
+_Thanks for stopping by! Stay tuned as I finish the 60-day challenge and release my capstone projects._ 🚀
