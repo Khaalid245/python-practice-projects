@@ -1,4 +1,3 @@
-from Tools.scripts.objgraph import definitions
 from flask import Flask, render_template
 
 app = Flask("Website")

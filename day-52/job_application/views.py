@@ -26,3 +26,25 @@ def index (request):
 
 def about(request):
     return render(request, "about.html")
+
+def contact(request):
+    if request.method == 'POST':
+        name = request.POST.get('name')
+        email = request.POST.get('email')
+        message = request.POST.get('message')
+
+        subject = f"New Contact Form Submission from {name}"
+        body = f"Name: {name}\nEmail: {email}\n\nMessage:\n{message}"
+
+        send_mail(
+            subject,
+            body,
+            settings.DEFAULT_FROM_EMAIL,
+            [settings.ADMIN_EMAIL],  # Make sure this is defined in settings.py
+            fail_silently=False,
+        )
+
+        messages.success(request, "Message sent successfully!")
+        return redirect('contact')  # name of the contact URL in urls.py
+
+    return render(request, 'contact.html')

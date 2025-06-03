@@ -1,0 +1,44 @@
+{% extends 'base.html' %}
+
+{% block content %}
+<div class="container mt-5">
+  <div class="row justify-content-center">
+    <div class="col-md-8">
+      <div class="card shadow-sm">
+        <div class="card-header bg-primary text-white">
+          <h3 class="mb-0">Contact Us</h3>
+        </div>
+        <div class="card-body">
+          <p class="lead">We’d love to hear from you! Feel free to reach out using the information below.</p>
+
+          <ul class="list-unstyled">
+            <li><strong>Email:</strong> <a href="mailto:support@example.com">support@example.com</a></li>
+            <li><strong>Phone:</strong> +1 (234) 567-8901</li>
+            <li><strong>Address:</strong> 123 Main St, Your City, Country</li>
+          </ul>
+
+          <hr>
+
+          <h5>Send us a message</h5>
+          <form>
+            <div class="mb-3">
+              <label for="name" class="form-label">Your Name</label>
+              <input type="text" class="form-control" id="name" placeholder="John Doe">
+            </div>
+            <div class="mb-3">
+              <label for="email" class="form-label">Your Email</label>
+              <input type="email" class="form-control" id="email" placeholder="john@example.com">
+            </div>
+            <div class="mb-3">
+              <label for="message" class="form-label">Your Message</label>
+              <textarea class="form-control" id="message" rows="4" placeholder="Type your message here..."></textarea>
+            </div>
+            <button type="submit" class="btn btn-primary">Send Message</button>
+          </form>
+
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+{% endblock %}
