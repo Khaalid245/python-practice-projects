@@ -75,9 +75,9 @@ This journey is about:
 
 ## 📬 Let’s Connect
 
-- 🌐 **Portfolio**: [Add your portfolio link here]  
-- 💬 **LinkedIn**: [Your LinkedIn]  
-- 📧 **Email**: [Your email]
+- 🌐 **Portfolio**: https://my-portfolio-2025-three.vercel.app/
+- 💬 **LinkedIn**: https://www.linkedin.com/in/khalid-abdillahi-269871276/
+- 📧 **Email**: khalidabdillahi30@gmail.com
 
 ---
 
