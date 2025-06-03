@@ -1,77 +1,95 @@
-🐍 60 Days of Python — Learning Journey
-Welcome to my 60 Days of Python learning journey!
+# 🐍 60 Days of Python — Personal Developer Journey
 
-This repository documents my daily progress as I complete a comprehensive Python course on Udemy. My goal is to become a proficient full-stack Python developer with solid skills in web development, API design, and machine learning.
+[![Progress](https://progress-bar.dev/20/?scale=60&title=Days%20Completed&width=300)](https://progress-bar.dev)
 
-📅 Progress Overview
-✅ Days Completed: 20 / 60
+Welcome to my evolving Python journey — 60 days of learning, building, and documenting everything!  
+My mission: Become a **full-stack Python developer** with real-world skills in **web apps**, **automation**, and **data science**.
 
-🎯 Ultimate Goal: Become a full-stack Python developer with strong foundations in data science and machine learning
+---
 
-🧠 What I’ve Learned So Far (Days 1–20)
-Python Syntax & Data Types
+## 📌 Quick Snapshot
 
-Conditional Statements and Loops
+![Python](https://img.shields.io/badge/Python-3.11-blue.svg)
+![Status](https://img.shields.io/badge/Status-In%20Progress-yellow)
+![Level](https://img.shields.io/badge/Level-Beginner%20to%20Intermediate-blueviolet)
+![Course](https://img.shields.io/badge/Udemy-Course-informational)
 
-Functions and Return Values
+- 🎯 **Goal:** Job-ready Full-Stack Python Developer
+- ⏱️ **Current Day:** `20 / 60`
+- 🛠️ **Learning Mode:** Build + Break + Rebuild
 
-File Handling
+---
 
-Object-Oriented Programming (OOP) Basics
+## 🧱 Projects Built So Far
 
-Working with Libraries (e.g., random, tkinter, etc.)
+<details>
+<summary><strong>🔧 Core Projects</strong></summary>
 
-GUI Development (Basic Projects)
+| Project | Description | Tech |
+|--------|-------------|------|
+| ✅ **To-Do App** | Simple task manager | Python, CLI |
+| ✅ **CSV File Tool** | Read, write, and transform CSV data | pandas |
+| ✅ **File Reader/Converter** | Convert file formats (txt → csv, etc.) | Python |
+| ✅ **Live Camera App** | Real-time webcam app | Streamlit, OpenCV |
+| ✅ **Portfolio Website** | Personal web portfolio | HTML, CSS, Python |
+| ✅ **PDF Auto-Generator** | Automated report/invoice PDFs | ReportLab |
+| ✅ **Email + News App** | Sends daily news via email | SMTP, NewsAPI |
+| ✅ **Weather App (Live)** | Get current weather data | OpenWeather API |
+| ✅ **Weather Forecast App** | Weekly forecast API | OpenWeather API |
+| ✅ **Django Job API** | Job app backend with user auth | Django REST |
 
-Mini Projects integrating learned concepts
+</details>
 
-🔨 Projects Built So Far
-✅ Calculator (GUI using tkinter)
+---
 
-✅ To-Do List CLI App
+## 📚 What I’ve Mastered (Days 1–20)
 
-✅ Unit Converter
+- ✅ Python fundamentals: syntax, variables, logic
+- ✅ Loops, conditions, functions
+- ✅ File & CSV handling
+- ✅ OOP Basics (Classes, Inheritance)
+- ✅ GUI with `tkinter`
+- ✅ CLI project structure
+- ✅ Libraries: `random`, `datetime`, `tkinter`, `os`, `csv`
 
-✅ Number Guessing Game
+---
 
-✅ Password Generator
+## 🛠️ Upcoming (Days 21–40)
 
-✅ Other small utility apps and logic games
+- 🌐 Flask / Django Fundamentals
+- 📡 Build REST APIs
+- 🗄️ Connect Python to SQL databases
+- 🔐 Auth: Signups, Logins, Sessions
+- 🧩 Build full-stack apps end-to-end
 
-🚧 What's Coming Next (Days 21–40)
-Web Development with Python (Flask or Django)
+---
 
-Building RESTful APIs
+## 📊 Final Phase (Days 41–60)
 
-Database Integration (SQL/SQLite)
+- 📊 Learn NumPy, Pandas
+- 📈 Visualize with Matplotlib & Seaborn
+- 🤖 Machine learning basics (Scikit-learn)
+- 🧠 Capstone Projects: combine everything!
 
-Authentication & User Management
+---
 
-Creating Full-Stack Applications
+## 🙌 Why I'm Doing This
 
-🔬 Final Stretch (Days 41–60)
-Introduction to Data Science and Machine Learning
+> **“Learning by doing. Growing by sharing.”**
 
-Data Manipulation with Pandas, NumPy
+This journey is about:
+- Staying consistent
+- Learning by real-world building
+- Creating things that actually **work**
+- Sharing my code to inspire other self-taught devs
 
-Data Visualization using Matplotlib and Seaborn
+---
 
-Building ML Models with Scikit-learn
+## 🔗 Let’s Connect!
 
-Final Capstone Projects showcasing all acquired skills
+- 🌍 **Portfolio:** [Add your portfolio link here]
+- 💼 **LinkedIn:** [Add LinkedIn]
+- 📨 **Email:** [Add Email]
 
-🎓 Course Details
-Platform: Udemy
+---
 
-Difficulty Level: Beginner → Intermediate
-
-Status: 🚧 In Progress
-
-🙌 Why I’m Doing This
-This challenge is part of my personal mission to become a job-ready Python developer. By sharing this journey, I hope to:
-
-Stay consistent and accountable
-
-Document real progress
-
-Inspire other learners across the globe
