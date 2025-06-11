@@ -19,7 +19,7 @@ Welcome to my **Python Mega Course** learning journey — _"Learn Python in 60 D
 - 💼 **Course**: [Python Mega Course](https://www.udemy.com/course/the-python-mega-course/)  
 - 🎯 **Goal**: Full-stack developer with Python, API, Django, and ML skills
 
----
+-
 
 ## 🛠️ Projects I’ve Built So Far
 
