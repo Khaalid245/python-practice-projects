@@ -71,7 +71,7 @@ This journey is about:
 - 💼 Preparing for professional developer roles
 - 🌍 Sharing my progress to inspire others like me
 
----
+--
 
 ## 📬 Let’s Connect
 
