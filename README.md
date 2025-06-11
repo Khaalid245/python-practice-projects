@@ -81,4 +81,4 @@ This journey is about:
 
 ---
 
-_Thanks for stopping by! Stay tuned as I finish the 60-day challenge and release my capstone projects._ 
+_Thanks for stopping by! Stay tuned as I finish the 60-day challenge and release my capstone projects._ 🚀
